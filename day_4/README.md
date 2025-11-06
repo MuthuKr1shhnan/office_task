@@ -49,32 +49,4 @@ while(i <= 4){
 
 ![alt text](image-2.png)
 
-## 4.factDig.js
 
-<pre lang="javascript">
-let n = 5;
-let fact = 1;
-for (let i = 1; i <= n; i++) {
-  fact *= i;
-}
-console.log(fact);
-</pre>
-
-### O/P
-
-![alt text](image-4.png)
-
-## 5.factDec.js
-
-<pre lang="javascript">
-let n = 5;
-let fact = 1;
-for (let i = n; i > 0; i--) {
-  fact *= i;
-}
-console.log(fact);
-</pre>
-
-### O/P
-
-![alt text](image-5.png)
