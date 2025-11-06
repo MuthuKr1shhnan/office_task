@@ -15,6 +15,7 @@ console.log(sum)
 ### O/P
 ![alt text](image.png)
 
+
 ## 2.multDig.js
 let n = 1234
 let prod = 1
@@ -28,6 +29,7 @@ console.log(prod)
 
 ![alt text](image-1.png)
 
+
 ## 3.multTwoDig.js
 <pre lang="javascript">
 let n = 123456
@@ -40,8 +42,8 @@ console.log(prod)
 </pre>
 ### O/P
 
-
 ![alt text](image-3.png)
+
 
 
 ## 4.factDig.js
