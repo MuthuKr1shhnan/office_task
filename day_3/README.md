@@ -17,6 +17,7 @@ console.log(sum)
 
 
 ## 2.multDig.js
+<pre lang="javascript">
 let n = 1234
 let prod = 1
 while(n > 0){
