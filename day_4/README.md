@@ -17,7 +17,7 @@ for(let i = 1; i <= 4; i++){
 ![alt text](image.png)
 
 ## 2.powerTwoDec.js
-
+<pre lang="javascript">
 let n = 2
 let result = 1
 for(let i = 4; i >= 1; i--){
