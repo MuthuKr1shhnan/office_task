@@ -1,4 +1,4 @@
-# Day 9 tasks
+# Day 10 tasks
 
 ## 1. addNums.js
 
