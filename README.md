@@ -1,6 +1,6 @@
 ## 📋 Tasks Overview
 
-These are the tasks assigned to me as part of the **office_task** project.
+These are the tasks assigned to me as part of the **training**.
 
 Each task is organized by day and includes:
 - ✅ The task implementation (JavaScript)
