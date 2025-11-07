@@ -1,4 +1,4 @@
-# Day 2 Tasks
+# Day 4 Tasks
 
 ## 1. powerTwo.js
 

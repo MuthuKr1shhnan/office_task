@@ -1,4 +1,4 @@
-# Day 2 tasks
+# Day 7 tasks
 
 ## 1. starOne.js
 

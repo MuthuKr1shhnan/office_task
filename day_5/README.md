@@ -1,4 +1,4 @@
-# Day 2 tasks
+# Day 5 tasks
 
 ## 1. isprime.js
 

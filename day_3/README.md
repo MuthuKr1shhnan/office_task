@@ -1,4 +1,4 @@
-# Day 2 tasks
+# Day 3 tasks
 
 ## 1. sumDig.js
 

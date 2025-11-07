@@ -1,4 +1,4 @@
-# Day 2 tasks
+# Day 6 tasks
 
 ## 1. printN.js
 
